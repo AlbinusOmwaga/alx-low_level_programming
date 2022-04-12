@@ -1,4 +1,2 @@
-#include <unistd.h>
-#include "main.h"
-int main(void);
+int _putchar(char);
 void print_alphabet(void);
